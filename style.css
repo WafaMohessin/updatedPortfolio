@@ -1,0 +1,68 @@
+*{
+    font-family: 'Karla', sans-serif;
+}
+
+body {
+    background-color: white;
+}
+nav {
+    margin: 2%;
+    position: relative;
+}
+
+.contact{
+    display: flex;
+}
+
+.contact ul{
+    display: flex;
+    flex-basis: 50%;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-content: space-between;
+    list-style: none;
+    text-decoration: none;
+}
+
+.contact{
+    display: flex;
+}
+
+
+.contact h1{
+    flex-basis: 80%;
+}
+
+.sidebar-nav{
+    display: none;
+}
+
+main{
+    margin-left: 20%;
+    padding: 0% 5%;
+    font-weight: 200;
+}
+
+
+.contact ul{
+    display: flex;
+    flex-basis: 50%;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-content: space-between;
+    list-style: none;
+    text-decoration: none;
+}
+
+.contact li a{
+    text-decoration: none;
+}
+
+.contact h1{
+    flex-basis: 80%;
+}
+
+.sidebar-nav{
+    display: none;
+}
+
